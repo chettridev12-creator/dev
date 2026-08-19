@@ -1,0 +1,8 @@
+{
+  "name": "OffbeatDestination Travels",
+  "description": "Automated AI-driven travel selling engine for OffbeatDestination Travels - Govt. registered Sikkim agency offering 5N/6D Sikkim-Darjeeling packages, North Sikkim permits, Bhutan tours, and NJP/IXB Innova Crysta cabs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
