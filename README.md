@@ -3,7 +3,7 @@
 > **Brand**: OffbeatDestination Travels  
 > **Tagline**: "A Better Way to Explore"  
 > **Govt. Reg No**: 1750/DoT&CAv/Gtk/25/TA (Govt. of Sikkim Registered Agency)  
-> **Location**: Arithang, Gangtok, Sikkim - 737102  
+> **Location**: Tibet Road,Above M. G Margh, Gangtok, Sikkim - 737101  
 
 ---
 
